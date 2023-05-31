@@ -1,5 +1,5 @@
 # Buku Kubernetes Untuk Pemula
-Buku ini ditulis oleh [Aris Cahyadi Risdianto](https://github.com/ariscahyadi), [Giri Kuncoro](https://github.com/girikuncoro) dan [Onno W. Purbo](https://twitter.com/onnowpurbo) sebagai media pembelajaran dasar tentang teknologi Kubernetes. Sebagian besar buku ini diadopsi dari Buku “Kubernetes Up and Running” dan dokumentasi proyek Kubernetes berbahasa Indonesia. Kemudian agar lebih mudah dipahami buku disertai dengan aplikasi [kudemo](https://github.com/ngoprek-kubernetes/buku-kudemo) dan beberapa contoh [file-file konfigurasi](https://github.com/ngoprek-kubernetes/examples) untuk mengubahnya menjadi sebuah layanan berbasis web dan API (application programming interface) yang handal.
+Buku ini ditulis oleh [Aris Cahyadi Risdianto](https://github.com/ariscahyadi), [Giri Kuncoro](https://github.com/girikuncoro) dan [Onno W. Purbo](https://twitter.com/onnowpurbo) sebagai media pembelajaran dasar tentang teknologi Kubernetes. Sebagian besar buku ini diadopsi dari Buku “Kubernetes Up and Running” dan dokumentasi proyek Kubernetes berbahasa Indonesia. Kemudian agar lebih mudah dipahami buku disertai dengan aplikasi [kudemo](https://github.com/ngoprek-kubernetes/kudemo) dan beberapa contoh [file-file konfigurasi](https://github.com/ngoprek-kubernetes/examples) untuk mengubahnya menjadi sebuah layanan berbasis web dan API (application programming interface) yang handal.
 
 ![buku](buku.jpg)
 
@@ -12,7 +12,7 @@ Buku ini akan menjelaskan tentang orkestrasi sebuah klaster Kubernetes dan bagai
 
 ## Daftar Isi
 
-Sebagian daftar isi dari buku ini dapat dilihat [disini]()
+Sebagian daftar isi dari buku ini dapat dilihat [disini](daftar-isi.md)
 
 ## Ucapan Terima Kasih
 
